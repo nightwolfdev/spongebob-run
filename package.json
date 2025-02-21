@@ -1,0 +1,16 @@
+{
+  "name": "spongebob-run",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
+  },
+  "dependencies": {
+    "kaplay": "^3001.0.9"
+  }
+}
